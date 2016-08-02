@@ -1,0 +1,11 @@
+Description: 
+	This command was created to help structured listing of your bash commands history.
+How to install:
+	make install
+How to remove:
+	make clean
+
+
+Variabiles that can be manipulated: 
+	$(FISI2) = <name of the final command>
+	$(SBIN_PATH) = <installation path of the script>
